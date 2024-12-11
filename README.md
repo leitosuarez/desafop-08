@@ -1,3 +1,2 @@
 Nombre: Leonel Suarez+
-Github: 
-Netlify: 
+Github: https://github.com/leitosuarez/desafop-08.git
